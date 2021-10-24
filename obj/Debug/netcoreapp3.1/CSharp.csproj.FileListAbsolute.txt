@@ -1,0 +1,14 @@
+E:\CSharpProject\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+E:\CSharpProject\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+E:\CSharpProject\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+E:\CSharpProject\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+E:\CSharpProject\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+E:\CSharpProject\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+E:\CSharpProject\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
