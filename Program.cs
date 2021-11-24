@@ -1,44 +1,49 @@
 ﻿using System;
 
 namespace CSharp
-{ 
-    class Knight
+{
+
+    class Player
     {
-        //접근한정자.
-        //public protected private(default는 private)
         protected int hp;
-
-        public void SecretFunction()
-        {
-            hp = 20;
-        }
-
-        public void SetHp(int hp)
-        {
-            this.hp = hp;
-        }
+        protected int attack;
     }
 
-       
-    class SuperKnight : Knight
+    class Knight : Player
     {
-        void Test()
-        {
-            hp = 10;
-        }
+
+    }
+
+    class Mage : Player
+    {
+        public int mp;
     }
 
     class Program
     {
 
+        static void EnterGame(Player player)
+        {
+            Mage mage = (player as Mage);
+            if (mage != null) {
+                mage.mp = 10;
+            }
+           
+        }
+    
 
         static void Main(string[] args)
         {
-
             Knight knight = new Knight();
-            knight.SetHp(100);
+            Mage mage = new Mage();
+ 
+            //Mage타입이 플레이어타입으로 될수있는데 플레이어타입은 Mage타입으로 변환 바로 불가-> 타입캐스팅 해야됨 -> 하지만 해.
+            //Player magePlayer = mage;
+            //Mage mage2 = (Mage)magePlayer;
 
-            
+            EnterGame(mage);
+            //EnterGame(mage);
+
         }
     }
 }
